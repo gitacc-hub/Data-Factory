@@ -1,0 +1,9 @@
+{
+	"name": "group1-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40d103a8-bf29-427c-a57c-48fb1010109b",
+		"tenantId": "1099c572-ee3f-4347-b67d-025479b362c9"
+	}
+}
